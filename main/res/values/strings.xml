@@ -1,0 +1,8 @@
+<resources>
+    <string name="travel_photo_app">Travel Photo App</string>
+    <string name="previous_button_description">Previous</string>
+    <string name="next_button_description">Next</string>
+    <string name="image_description">Travel Image</string>
+    <string name="tVName_text">Hiranyakeshi</string>
+    <string name="hiranyakeshi">Hiranyakeshi</string> <!-- Add this line -->
+</resources>
